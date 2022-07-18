@@ -1,0 +1,4 @@
+python-dotenv source: no-debian-changes
+python-dotenv source: source-contains-prebuilt-windows-binary
+python-dotenv source: source-is-missing
+python-dotenv source: source-package-encodes-python-version
